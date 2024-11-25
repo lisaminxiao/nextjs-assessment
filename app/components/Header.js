@@ -66,7 +66,7 @@ function Header() {
 
                                 <ul className="nav navbar-nav">
                                     <li><a href="/">Find a Rental</a></li>
-                                    <li><a href="#">List your rental</a></li>
+                                    <li><a href="/gallery">List your rental</a></li>
                                     <li><a href="#">Travel Guides</a></li>
                                     <li><a href="/regions">Regions</a></li>
                                     <li><a href="/news">News</a></li>
