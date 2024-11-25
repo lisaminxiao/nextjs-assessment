@@ -1,10 +1,10 @@
 "use client";
 
 import React from "react";
-import { useState } from "react";
+// import { useState } from "react";
 import "../styles/globals.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Carousel from "./components/carousel";
+import Carousel from "./components/Carousel";
 import Search from "./components/Search";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
