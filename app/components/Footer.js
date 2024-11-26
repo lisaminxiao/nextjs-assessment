@@ -37,7 +37,7 @@ function Footer() {
                                         <li>
                                             <div className="image">
                                                 <a href="properties-detail.html"
-                                                ><img src="http://placehold.it/760x670" alt=""
+                                                ><img src="https://placehold.it/760x670" alt=""
                                                     /></a>
                                             </div>
                                             <p><a href="properties-detail.html">Rhovanion</a></p>
@@ -45,7 +45,7 @@ function Footer() {
                                         <li>
                                             <div className="image">
                                                 <a href="properties-detail.html"
-                                                ><img src="http://placehold.it/760x670" alt=""
+                                                ><img src="https://placehold.it/760x670" alt=""
                                                     /></a>
                                             </div>
                                             <p><a href="properties-detail.html">Eriador</a></p>
@@ -53,7 +53,7 @@ function Footer() {
                                         <li>
                                             <div className="image">
                                                 <a href="properties-detail.html"
-                                                ><img src="http://placehold.it/760x670" alt=""
+                                                ><img src="https://placehold.it/760x670" alt=""
                                                     /></a>
                                             </div>
                                             <p>
@@ -67,7 +67,7 @@ function Footer() {
                                         <li>
                                             <div className="image">
                                                 <a href="properties-detail.html"
-                                                ><img src="http://placehold.it/760x670" alt=""
+                                                ><img src="https://placehold.it/760x670" alt=""
                                                     /></a>
                                             </div>
                                             <p><a href="properties-detail.html">Mordor</a></p>
@@ -75,7 +75,7 @@ function Footer() {
                                         <li>
                                             <div className="image">
                                                 <a href="properties-detail.html"
-                                                ><img src="http://placehold.it/760x670" alt=""
+                                                ><img src="https://placehold.it/760x670" alt=""
                                                     /></a>
                                             </div>
                                             <p><a href="properties-detail.html">Arnor</a></p>
@@ -83,7 +83,7 @@ function Footer() {
                                         <li>
                                             <div className="image">
                                                 <a href="properties-detail.html"
-                                                ><img src="http://placehold.it/760x670" alt=""
+                                                ><img src="https://placehold.it/760x670" alt=""
                                                     /></a>
                                             </div>
                                             <p><a href="properties-detail.html">Forlindon</a></p>

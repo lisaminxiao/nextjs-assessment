@@ -11,7 +11,7 @@ function Carousel(){
           <div
             className="item active"
             id="slide1"
-            style={{ background: "url(http://placehold.it/1920x605) no-repeat left center", backgroundSize: "cover" }}
+            style={{ background: "url(https://placehold.it/1920x605) no-repeat left center", backgroundSize: "cover" }}
           >
             {/* Ready for JS Injection */}
             <div className="carousel-caption">
@@ -25,7 +25,7 @@ function Carousel(){
           <div
             className="item"
             id="slide2"
-            style={{ background: "url(http://placehold.it/1920x605) no-repeat left center", backgroundSize: "cover" }}
+            style={{ background: "url(https://placehold.it/1920x605) no-repeat left center", backgroundSize: "cover" }}
           >
             <div className="carousel-caption">
               <div className="caption sfr slider-title">The simple life</div>
