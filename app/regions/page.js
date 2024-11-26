@@ -13,7 +13,7 @@ export default function Region() {
                       <h3>Sydney</h3>
                       <span className="location">New South Wales</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                 </div>
                 <div className="item col-md-4">
@@ -22,7 +22,7 @@ export default function Region() {
                       <h3>Melbourne</h3>
                       <span className="location">Victoria</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                 </div>
                 <div className="item col-md-4">
@@ -31,7 +31,7 @@ export default function Region() {
                       <h3>Brisbane</h3>
                       <span className="location">Queensland</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                 </div>
                 <div className="item col-md-4">
@@ -40,7 +40,7 @@ export default function Region() {
                       <h3>Perth</h3>
                       <span className="location">Western Australia</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                 </div>
                 <div className="item col-md-4">
@@ -49,7 +49,7 @@ export default function Region() {
                       <h3>Adelaide</h3>
                       <span className="location">South Australia</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                 </div>
                 <div className="item col-md-4">
@@ -58,7 +58,7 @@ export default function Region() {
                       <h3>Hobart</h3>
                       <span className="location">Tasmania</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                 </div>
               </div>

@@ -31,7 +31,7 @@ export default function Home() {
                       <h3>Luxury Apartment with great views</h3>
                       <span className="location">Upper East Side, New York</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                   <div className="price">
                     <span>$950</span>
@@ -49,7 +49,7 @@ export default function Home() {
                       <h3>Stunning Villa with 5 bedrooms</h3>
                       <span className="location">Miami Beach, Florida</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                   <div className="price">
                     <span>$1,300</span>
@@ -67,7 +67,7 @@ export default function Home() {
                       <h3>Recent construction with 3 bedrooms</h3>
                       <span className="location">Park Slope, New York</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                   <div className="price">
                     <span>$560</span>
@@ -85,7 +85,7 @@ export default function Home() {
                       <h3>Modern construction with parking space</h3>
                       <span className="location">Midtown, New York</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                   <div className="price">
                     <span>$85</span>
@@ -103,7 +103,7 @@ export default function Home() {
                       <h3>Single Family Townhouse</h3>
                       <span className="location">Cobble Hill, New York</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                   <div className="price">
                     <span>$840</span>
@@ -121,7 +121,7 @@ export default function Home() {
                       <h3>3 bedroom villa with garage for rent</h3>
                       <span className="location">Bal Harbour, Florida</span>
                     </a>
-                    <img src="https:://placehold.it/760x670" alt="" />
+                    <img src="https://placehold.it/760x670" alt="" />
                   </div>
                   <div className="price">
                     <span>$150</span>
@@ -140,38 +140,38 @@ export default function Home() {
                   <div id="regions">
                     <div className="item">
                       <a href="#">
-                        <img src="https:://placehold.it/194x194" alt="" />
+                        <img src="https://placehold.it/194x194" alt="" />
                         <h3>Rhovanion</h3>
                       </a>
                     </div>
                     <div className="item">
                       <a href="#">
-                        <img src="https:://placehold.it/194x194" alt="" />
+                        <img src="https://placehold.it/194x194" alt="" />
                         <h3>Eriador</h3>
                       </a>
                     </div>
                     <div className="item">
                       <a href="#">
-                        <img src="https:://placehold.it/194x194" alt="" />
+                        <img src="https://placehold.it/194x194" alt="" />
                         <h3>Bay of Belfalas</h3>
                       </a>
                     </div>
                     <div className="item">
                       <a href="#">
-                        <img src="https:://placehold.it/194x194" alt="" />
+                        <img src="https://placehold.it/194x194" alt="" />
                         <h3>Mordor</h3>
                       </a>
                     </div>
 
                     <div className="item">
                       <a href="#">
-                        <img src="https:://placehold.it/194x194" alt="" />
+                        <img src="https://placehold.it/194x194" alt="" />
                         <h3>The Southwest</h3>
                       </a>
                     </div>
                     <div className="item">
                       <a href="#">
-                        <img src="https:://placehold.it/194x194" alt="" />
+                        <img src="https://placehold.it/194x194" alt="" />
                         <h3>Arnor</h3>
                       </a>
                     </div>
@@ -187,7 +187,7 @@ export default function Home() {
                       <span className="btn btn-default"
                       ><i className="fa fa-file-o"></i> Read More</span>
                     </a>
-                    <img src="https:://placehold.it/766x515" alt="" />
+                    <img src="https://placehold.it/766x515" alt="" />
                   </div>
                   <div className="tag"><i className="fa fa-file-text"></i></div>
                   <div className="info-blog">
@@ -217,7 +217,7 @@ export default function Home() {
                       <span className="btn btn-default"
                       ><i className="fa fa-file-o"></i> Read More</span>
                     </a>
-                    <img src="https:://placehold.it/766x515" alt="" />
+                    <img src="https://placehold.it/766x515" alt="" />
                   </div>
                   <div className="tag"><i className="fa fa-film"></i></div>
                   <div className="info-blog">
@@ -242,7 +242,7 @@ export default function Home() {
                       <span className="btn btn-default"
                       ><i className="fa fa-file-o"></i> Read More</span>
                     </a>
-                    <img src="https:://placehold.it/766x515" alt="" />
+                    <img src="https://placehold.it/766x515" alt="" />
                   </div>
                   <div className="tag"><i className="fa fa-file-text"></i></div>
                   <div className="info-blog">
@@ -280,7 +280,7 @@ export default function Home() {
                   <li className="col-md-12">
                     <div className="image">
                       <a href="blog-detail.html"></a>
-                      <img alt="" src="https:://placehold.it/100x100" />
+                      <img alt="" src="https://placehold.it/100x100" />
                     </div>
 
                     <ul className="top-info">
@@ -295,7 +295,7 @@ export default function Home() {
                   <li className="col-md-12">
                     <div className="image">
                       <a href="blog-detail.html"></a>
-                      <img alt="" src="https:://placehold.it/100x100" />
+                      <img alt="" src="https://placehold.it/100x100" />
                     </div>
 
                     <ul className="top-info">
@@ -312,7 +312,7 @@ export default function Home() {
                   <li className="col-md-12">
                     <div className="image">
                       <a href="blog-detail.html"></a>
-                      <img alt="" src="https:://placehold.it/100x100" />
+                      <img alt="" src="https://placehold.it/100x100" />
                     </div>
 
                     <ul className="top-info">
@@ -327,7 +327,7 @@ export default function Home() {
                   <li className="col-md-12">
                     <div className="image">
                       <a href="blog-detail.html"></a>
-                      <img alt="" src="https:://placehold.it/100x100" />
+                      <img alt="" src="https://placehold.it/100x100" />
                     </div>
 
                     <ul className="top-info">
@@ -351,7 +351,7 @@ export default function Home() {
                 <ul className="activity">
                   <li className="col-lg-12">
                     <a href="#"
-                    ><img src="https:://placehold.it/70x70" alt=""
+                    ><img src="https://placehold.it/70x70" alt=""
                       /></a>
                     <div className="info">
                       <h5>
@@ -366,7 +366,7 @@ export default function Home() {
                   </li>
                   <li className="col-lg-12">
                     <a href="#"
-                    ><img src="https:://placehold.it/70x70" alt=""
+                    ><img src="https://placehold.it/70x70" alt=""
                       /></a>
                     <div className="info">
                       <h5>

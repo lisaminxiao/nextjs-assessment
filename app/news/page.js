@@ -12,7 +12,7 @@ export default function News() {
                       <a href="#">
                         <span className="btn btn-default"><i className="fa fa-file-o"></i> Read More</span>
                       </a>
-                      <img src="https:://placehold.it/766x515" alt="" />
+                      <img src="https://placehold.it/766x515" alt="" />
                     </div>
                     <div className="tag"><i className="fa fa-file-text"></i></div>
                     <div className="info-blog">
@@ -32,7 +32,7 @@ export default function News() {
                       <a href="#">
                         <span className="btn btn-default"><i className="fa fa-file-o"></i> Read More</span>
                       </a>
-                      <img src="https:://placehold.it/766x515" alt="" />
+                      <img src="https://placehold.it/766x515" alt="" />
                     </div>
                     <div className="tag"><i className="fa fa-file-text"></i></div>
                     <div className="info-blog">
@@ -54,7 +54,7 @@ export default function News() {
                         <span className="btn btn-default"
                         ><i className="fa fa-file-o"></i> Read More</span>
                       </a>
-                      <img src="https:://placehold.it/766x515" alt="" />
+                      <img src="https://placehold.it/766x515" alt="" />
                     </div>
                     <div className="tag"><i className="fa fa-file-text"></i></div>
                     <div className="info-blog">
