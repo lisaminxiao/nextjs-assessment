@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
         <html lang="en">
             <body>
                 <noscript>You need to enable JavaScript to run this app.</noscript>
-                <p className="">This is the NextJS page, try again</p>
+                <p className="">This is the NextJS page</p>
                 <Header />
                 {children}
                 <Footer />
